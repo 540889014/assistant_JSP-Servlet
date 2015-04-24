@@ -17,20 +17,20 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   	<style type="text/css">
   		
   	</style>
-    <base href="<%=basePath%>">
+    <base href="<%=basePath%>">               
     
     <title>登陆界面</title>
-  </head>
+  </head>                              
   
   <body>
-  	<div align="center"> 
+  	<div align="center">    
 	<form action="" method="post">
-	<table  width="1600" height="700" background="image/login3.jpg">
-		<tr height="300">
+	<table  width="1600" height="700" background="image/login3.jpg">    
+		<tr height="300">  
 		</tr>
-		<tr height="10">
+		<tr height="10">   
 			<td width="40%"></td>
-			<td width="10%" align="right">用户名：</td>
+			<td width="10%" align="right">用户名：</td>  
 			<td align="left"><input type="text" value="${username }" id="username" name="username" ></td>
 			<td width="30%"></td>
 		</tr>
