@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="assistant_JSPServlet"
+  id="myeclipse.1429833146391"
+  context-root="/assistant_JSP&amp;Servlet"
+  j2ee-spec="5.0"
+  archive="assistant_JSPServlet.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
