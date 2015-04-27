@@ -8,8 +8,7 @@
 
 	<body>
 
-		Struts2添加成功！ <br />
-		Struts2与Spring整合成功！<br/>
+		
 
 	</body>
 </html>
