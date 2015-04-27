@@ -1,6 +1,6 @@
 package oa.domain;
 
-public class AdminUser {
+public class Admin {
    private int Admin_id;
    private String Admin_username;
    private String Admin_password;
